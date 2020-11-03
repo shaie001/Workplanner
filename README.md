@@ -1,1 +1,1 @@
-# Workplanner
+This planner helps with day to day business scheduling.
